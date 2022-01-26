@@ -1,0 +1,28 @@
+.logo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    margin: 50px 0;
+    text-align: center;
+}
+
+.links-container {
+    width: 100%;
+}
+
+.row {
+    display: flex;
+}
+
+.link {
+    flex:1;
+}
+
+.image {
+    width: 70%;
+    height: auto;
+    margin-top: 15%;
+    margin-left: 15%;
+}
+
+img {height: 100%; width: 100%; display:block;}
